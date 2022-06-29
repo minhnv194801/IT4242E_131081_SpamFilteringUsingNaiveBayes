@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="opencsv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang3-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-text-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opencsv-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
